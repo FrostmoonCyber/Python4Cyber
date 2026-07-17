@@ -8,7 +8,8 @@ This section focuses on mastering Python's basic syntax and applying it to secur
 * **Flow Control:** Implementing basic `if/else` logic to handle errors and empty inputs.
 
 ### 🛠️ Scripts in this folder
-* **[checker.py](./checker.py):** A basic script to capture and validate a target IP address before starting a scan.
+* **[01_ip_format_checker.py](./01_ip_format_checker.py):** A basic script to capture and validate a target IP address before starting a scan.
+* **[01_file_integrity_guard.py](./01_file_integrity_guard.py):**
 
 ---
-*Next step: Exploring the `socket` library for network connectivity.*
+
