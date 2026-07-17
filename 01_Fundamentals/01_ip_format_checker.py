@@ -1,3 +1,9 @@
+"""
+Project 01: IP Format Checker (Phase 1)
+Validates IPv4 addresses to ensure correct formatting before processing network operations.
+
+"""
+
 import ipaddress
 
 while True:
