@@ -1,3 +1,11 @@
+"""
+Project 01: File Integrity Guard (Phase 1)
+
+Automates game save backups and verifies data integrity using SHA-256
+hashing.
+
+"""
+
 import hashlib
 from pathlib import Path
 import shutil
