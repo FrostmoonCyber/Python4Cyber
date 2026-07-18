@@ -12,12 +12,12 @@ import shutil
 
 
 #This is the isolated function, just hash calculation
-def calulate_file_hash(route: Path) -> str:
+def calculate_file_hash(route: Path) -> str:
     sha256 = hashlib.sha256()
 
-    with open(route, "rb") as archivo_binario:
+    with open(route, "rb") as binary_file:
         while True:
-            block = archivo_binario.read(4096)
+            block = binary_file.read(4096)
             if not block:
                 break
             sha256.update(block)
