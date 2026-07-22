@@ -1,4 +1,4 @@
-# 📂 01_Fundamentals: Python Core for Security
+# 📂 Fundamentals: Python Core for Security
 
 This section focuses on mastering Python's basic syntax and applying it to security-related logic. Each script here represents a step toward building more complex automation tools.
 
