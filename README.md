@@ -17,7 +17,7 @@ The main goal of this repository is to build a modular security tool that automa
 - **Focus:** Network Security, Automation, Ethical Hacking
 
 ## 📂 Folder Structure
-- [01_Fundamentals](./01_Fundamentals): Basic syntax and initial scripts.
+- [/01_Fundamentals](./01_Fundamentals): Basic syntax and initial scripts.
 - `/02_Network_Tools`: Scripts for network interaction.
 - `/scripts`: Completed, ready-to-use tools.
 
