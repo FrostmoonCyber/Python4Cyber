@@ -20,8 +20,8 @@ def main():
     parser.add_argument("--target","-t", help = "Domain or checked IP", type= str)
     parser.add_argument("--version", "-v", action= "version", help = "Show version", version='%(prog)s 1.0.0' )
     args = parser.parse_args()
-    
-    print(BANNER)
+
+  
     if args.target:
       print(f"[+] Starting audit in: {args.target}")
     else:
