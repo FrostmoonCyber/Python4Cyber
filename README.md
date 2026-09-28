@@ -22,4 +22,4 @@ The main goal of this repository is to build a modular security tool that automa
 - `/scripts`: Completed, ready-to-use tools.
 
 ---
-*Driven by the discipline of a musician and the precision of a telecommunications technician.*
+
